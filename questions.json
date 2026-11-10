@@ -181,6 +181,186 @@
           "A programming language",
           "A database"
         ]
+      },
+      {
+        "question": "Which company created the Windows operating system?",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": [
+          "Apple",
+          "Google",
+          "Samsung"
+        ]
+      },
+      {
+        "question": "What does GPU stand for?",
+        "correct_answer": "Graphics Processing Unit",
+        "incorrect_answers": [
+          "General Power Unit",
+          "Graphical Program Utility",
+          "Global Processing Update"
+        ]
+      },
+      {
+        "question": "Which of these is a search engine?",
+        "correct_answer": "Google",
+        "incorrect_answers": [
+          "Excel",
+          "Java",
+          "Router"
+        ]
+      },
+      {
+        "question": "What is the file extension of a Microsoft Word document?",
+        "correct_answer": ".docx",
+        "incorrect_answers": [
+          ".xlsx",
+          ".pptx",
+          ".mp3"
+        ]
+      },
+      {
+        "question": "Which technology connects devices to the internet wirelessly?",
+        "correct_answer": "Wi-Fi",
+        "incorrect_answers": [
+          "HDMI",
+          "USB",
+          "VGA"
+        ]
+      },
+      {
+        "question": "What does URL stand for?",
+        "correct_answer": "Uniform Resource Locator",
+        "incorrect_answers": [
+          "Universal Reading Link",
+          "Unified Route Line",
+          "User Resource List"
+        ]
+      },
+      {
+        "question": "What is malware?",
+        "correct_answer": "Software designed to harm a computer",
+        "incorrect_answers": [
+          "Software that speeds up a PC",
+          "A type of keyboard",
+          "A cloud server"
+        ]
+      },
+      {
+        "question": "Which key deletes the character to the left of the cursor?",
+        "correct_answer": "Backspace",
+        "incorrect_answers": [
+          "Enter",
+          "Tab",
+          "Shift"
+        ]
+      },
+      {
+        "question": "Which device prints documents on paper?",
+        "correct_answer": "Printer",
+        "incorrect_answers": [
+          "Scanner",
+          "Webcam",
+          "Router"
+        ]
+      },
+      {
+        "question": "Which part is known as the brain of the computer?",
+        "correct_answer": "CPU",
+        "incorrect_answers": [
+          "Keyboard",
+          "Mouse",
+          "Monitor"
+        ]
+      },
+      {
+        "question": "What does LAN stand for?",
+        "correct_answer": "Local Area Network",
+        "incorrect_answers": [
+          "Large Access Node",
+          "Linked Area Number",
+          "Long Antenna Network"
+        ]
+      },
+      {
+        "question": "Which of these stores data permanently?",
+        "correct_answer": "Hard disk",
+        "incorrect_answers": [
+          "RAM",
+          "Keyboard",
+          "Speaker"
+        ]
+      },
+      {
+        "question": "Which language is used to style web pages?",
+        "correct_answer": "CSS",
+        "incorrect_answers": [
+          "SQL",
+          "Python",
+          "Bash"
+        ]
+      },
+      {
+        "question": "What is binary code made of?",
+        "correct_answer": "0s and 1s",
+        "incorrect_answers": [
+          "Letters A to Z",
+          "Digits 0 to 9",
+          "Colours"
+        ]
+      },
+      {
+        "question": "Which of these is a social media platform?",
+        "correct_answer": "Instagram",
+        "incorrect_answers": [
+          "Linux",
+          "MySQL",
+          "Chrome"
+        ]
+      },
+      {
+        "question": "What is a bug in programming?",
+        "correct_answer": "An error in a program",
+        "incorrect_answers": [
+          "A virus alert",
+          "A new feature",
+          "A keyboard key"
+        ]
+      },
+      {
+        "question": "What is phishing?",
+        "correct_answer": "A scam that tricks people into giving personal information",
+        "incorrect_answers": [
+          "A type of network cable",
+          "A backup method",
+          "A fast internet plan"
+        ]
+      },
+      {
+        "question": "Which of these is used to develop Android apps?",
+        "correct_answer": "Android Studio",
+        "incorrect_answers": [
+          "Paint",
+          "Excel",
+          "Zoom"
+        ]
+      },
+      {
+        "question": "What is the full form of the word \"app\"?",
+        "correct_answer": "Application",
+        "incorrect_answers": [
+          "Apple",
+          "Approach",
+          "Appendix"
+        ]
+      },
+      {
+        "question": "What does a router do?",
+        "correct_answer": "Directs data between networks",
+        "incorrect_answers": [
+          "Prints files",
+          "Stores videos",
+          "Plays music"
+        ]
       }
     ],
     "mechatronics": [
@@ -362,6 +542,186 @@
           "Ampere",
           "Ohm",
           "Hertz"
+        ]
+      },
+      {
+        "question": "What is a robot?",
+        "correct_answer": "A programmable machine that performs tasks automatically",
+        "incorrect_answers": [
+          "A type of battery",
+          "A hand tool",
+          "A kind of fuse"
+        ]
+      },
+      {
+        "question": "Which of these is a mechanical component?",
+        "correct_answer": "Gear",
+        "incorrect_answers": [
+          "Resistor",
+          "Capacitor",
+          "Diode"
+        ]
+      },
+      {
+        "question": "What does RPM stand for?",
+        "correct_answer": "Revolutions Per Minute",
+        "incorrect_answers": [
+          "Rapid Power Mode",
+          "Rotation Pressure Meter",
+          "Rated Power Motor"
+        ]
+      },
+      {
+        "question": "What does a relay do?",
+        "correct_answer": "Switches a circuit on or off using a signal",
+        "incorrect_answers": [
+          "Measures temperature",
+          "Cuts metal",
+          "Stores charge"
+        ]
+      },
+      {
+        "question": "Which component detects light?",
+        "correct_answer": "LDR (Light Dependent Resistor)",
+        "incorrect_answers": [
+          "Thermistor",
+          "Microphone",
+          "Strain gauge"
+        ]
+      },
+      {
+        "question": "Which component detects temperature?",
+        "correct_answer": "Thermistor",
+        "incorrect_answers": [
+          "LDR",
+          "Ultrasonic sensor",
+          "Limit switch"
+        ]
+      },
+      {
+        "question": "What does an LED produce?",
+        "correct_answer": "Light",
+        "incorrect_answers": [
+          "Sound",
+          "Motion",
+          "Heat only"
+        ]
+      },
+      {
+        "question": "What does a push button do?",
+        "correct_answer": "Completes a circuit when pressed",
+        "incorrect_answers": [
+          "Measures current",
+          "Stores charge",
+          "Reduces voltage"
+        ]
+      },
+      {
+        "question": "What does a limit switch detect?",
+        "correct_answer": "The position of a moving part",
+        "incorrect_answers": [
+          "Air temperature",
+          "Light colour",
+          "Sound volume"
+        ]
+      },
+      {
+        "question": "Which motor moves in precise steps?",
+        "correct_answer": "Stepper motor",
+        "incorrect_answers": [
+          "Diesel engine",
+          "Jet engine",
+          "Steam turbine"
+        ]
+      },
+      {
+        "question": "What does 3D printing do?",
+        "correct_answer": "Builds objects layer by layer",
+        "incorrect_answers": [
+          "Cuts objects from wood",
+          "Paints walls",
+          "Records video"
+        ]
+      },
+      {
+        "question": "What is a conveyor used for?",
+        "correct_answer": "Moving items from one place to another",
+        "incorrect_answers": [
+          "Measuring voltage",
+          "Welding metal",
+          "Painting surfaces"
+        ]
+      },
+      {
+        "question": "What does a buzzer produce?",
+        "correct_answer": "Sound",
+        "incorrect_answers": [
+          "Light",
+          "Heat",
+          "Motion"
+        ]
+      },
+      {
+        "question": "What does HMI stand for in automation?",
+        "correct_answer": "Human Machine Interface",
+        "incorrect_answers": [
+          "High Motor Input",
+          "Heavy Machine Industry",
+          "Hybrid Motion Indicator"
+        ]
+      },
+      {
+        "question": "What drives a pneumatic cylinder?",
+        "correct_answer": "Compressed air",
+        "incorrect_answers": [
+          "Electricity only",
+          "Gravity",
+          "Sunlight"
+        ]
+      },
+      {
+        "question": "What is the purpose of a heat sink?",
+        "correct_answer": "Remove heat from components",
+        "incorrect_answers": [
+          "Store energy",
+          "Increase voltage",
+          "Generate light"
+        ]
+      },
+      {
+        "question": "Which language is commonly used to program an Arduino?",
+        "correct_answer": "C/C++",
+        "incorrect_answers": [
+          "HTML",
+          "SQL",
+          "CSS"
+        ]
+      },
+      {
+        "question": "What is a closed-loop control system?",
+        "correct_answer": "A system that uses feedback to adjust its output",
+        "incorrect_answers": [
+          "A system with no sensors",
+          "A system that never stops",
+          "A system that only uses air"
+        ]
+      },
+      {
+        "question": "What does a thermostat control?",
+        "correct_answer": "Temperature",
+        "incorrect_answers": [
+          "Sound",
+          "Colour",
+          "Weight"
+        ]
+      },
+      {
+        "question": "Which tool measures voltage, current and resistance?",
+        "correct_answer": "Multimeter",
+        "incorrect_answers": [
+          "Vernier caliper",
+          "Spirit level",
+          "Stopwatch"
         ]
       }
     ],
@@ -545,6 +905,186 @@
           "Capacitor",
           "Transformer"
         ]
+      },
+      {
+        "question": "What is the unit of inductance?",
+        "correct_answer": "Henry",
+        "incorrect_answers": [
+          "Farad",
+          "Ohm",
+          "Tesla"
+        ]
+      },
+      {
+        "question": "What type of current does a battery produce?",
+        "correct_answer": "Direct current (DC)",
+        "incorrect_answers": [
+          "Alternating current (AC)",
+          "Radio waves",
+          "Sound waves"
+        ]
+      },
+      {
+        "question": "What is a short circuit?",
+        "correct_answer": "Current flowing through an unintended low-resistance path",
+        "incorrect_answers": [
+          "A circuit with no power",
+          "A very small circuit",
+          "A circuit with many resistors"
+        ]
+      },
+      {
+        "question": "Which instrument measures resistance?",
+        "correct_answer": "Ohmmeter",
+        "incorrect_answers": [
+          "Voltmeter",
+          "Barometer",
+          "Ammeter"
+        ]
+      },
+      {
+        "question": "Which colour combination marks the earth wire?",
+        "correct_answer": "Green and yellow",
+        "incorrect_answers": [
+          "Red and black",
+          "White",
+          "Orange"
+        ]
+      },
+      {
+        "question": "What does kWh measure?",
+        "correct_answer": "Electrical energy used",
+        "incorrect_answers": [
+          "Voltage",
+          "Current",
+          "Frequency"
+        ]
+      },
+      {
+        "question": "Which type of current changes direction regularly?",
+        "correct_answer": "AC",
+        "incorrect_answers": [
+          "DC",
+          "Static",
+          "Fixed"
+        ]
+      },
+      {
+        "question": "What is the purpose of an earth wire?",
+        "correct_answer": "Provide a safe path for fault current",
+        "incorrect_answers": [
+          "Increase voltage",
+          "Store energy",
+          "Make bulbs brighter"
+        ]
+      },
+      {
+        "question": "Which of these is a semiconductor material?",
+        "correct_answer": "Silicon",
+        "incorrect_answers": [
+          "Copper",
+          "Rubber",
+          "Glass"
+        ]
+      },
+      {
+        "question": "What does a transistor mainly do?",
+        "correct_answer": "Switch or amplify signals",
+        "incorrect_answers": [
+          "Store water",
+          "Measure length",
+          "Cut wire"
+        ]
+      },
+      {
+        "question": "What is the unit of electric charge?",
+        "correct_answer": "Coulomb",
+        "incorrect_answers": [
+          "Ampere",
+          "Volt",
+          "Watt"
+        ]
+      },
+      {
+        "question": "In a parallel circuit, what is the voltage across each branch?",
+        "correct_answer": "The same",
+        "incorrect_answers": [
+          "Zero",
+          "Different",
+          "Doubled"
+        ]
+      },
+      {
+        "question": "Which symbol is used for resistance?",
+        "correct_answer": "R",
+        "incorrect_answers": [
+          "I",
+          "V",
+          "C"
+        ]
+      },
+      {
+        "question": "What does a rectifier do?",
+        "correct_answer": "Converts AC to DC",
+        "incorrect_answers": [
+          "Converts DC to AC",
+          "Steps up voltage",
+          "Measures current"
+        ]
+      },
+      {
+        "question": "What does an inverter do?",
+        "correct_answer": "Converts DC to AC",
+        "incorrect_answers": [
+          "Converts AC to DC",
+          "Stores energy",
+          "Cuts power"
+        ]
+      },
+      {
+        "question": "Which power plant uses falling water to make electricity?",
+        "correct_answer": "Hydroelectric",
+        "incorrect_answers": [
+          "Solar",
+          "Wind",
+          "Nuclear"
+        ]
+      },
+      {
+        "question": "Which company is the main electricity provider in Peninsular Malaysia?",
+        "correct_answer": "Tenaga Nasional Berhad (TNB)",
+        "incorrect_answers": [
+          "Petronas",
+          "Telekom Malaysia",
+          "Maxis"
+        ]
+      },
+      {
+        "question": "How many volts are in 1 kilovolt (kV)?",
+        "correct_answer": "1,000 V",
+        "incorrect_answers": [
+          "100 V",
+          "10 V",
+          "10,000 V"
+        ]
+      },
+      {
+        "question": "What does a light bulb convert electrical energy into?",
+        "correct_answer": "Light and heat",
+        "incorrect_answers": [
+          "Sound only",
+          "Motion",
+          "Chemical energy"
+        ]
+      },
+      {
+        "question": "What does MCB stand for?",
+        "correct_answer": "Miniature Circuit Breaker",
+        "incorrect_answers": [
+          "Main Control Box",
+          "Motor Current Board",
+          "Multi Cable Bundle"
+        ]
       }
     ],
     "mechanical": [
@@ -726,6 +1266,186 @@
           "Petrol",
           "LPG",
           "Coal"
+        ]
+      },
+      {
+        "question": "What is the SI unit of power?",
+        "correct_answer": "Watt",
+        "incorrect_answers": [
+          "Joule",
+          "Newton",
+          "Pascal"
+        ]
+      },
+      {
+        "question": "What is friction?",
+        "correct_answer": "A force that opposes motion between surfaces",
+        "incorrect_answers": [
+          "A type of fuel",
+          "A measure of heat",
+          "A kind of metal"
+        ]
+      },
+      {
+        "question": "Which tool is used to tighten nuts and bolts?",
+        "correct_answer": "Spanner",
+        "incorrect_answers": [
+          "Hammer",
+          "Saw",
+          "File"
+        ]
+      },
+      {
+        "question": "What does a lever do?",
+        "correct_answer": "Helps move a load with less effort",
+        "incorrect_answers": [
+          "Measures temperature",
+          "Stores energy",
+          "Cuts metal"
+        ]
+      },
+      {
+        "question": "Which of these is a ferrous metal?",
+        "correct_answer": "Iron",
+        "incorrect_answers": [
+          "Copper",
+          "Aluminium",
+          "Gold"
+        ]
+      },
+      {
+        "question": "What does a piston do in an engine?",
+        "correct_answer": "Moves up and down inside the cylinder",
+        "incorrect_answers": [
+          "Stores fuel",
+          "Cools the engine",
+          "Filters air"
+        ]
+      },
+      {
+        "question": "What is the purpose of a radiator in a car?",
+        "correct_answer": "Cool the engine",
+        "incorrect_answers": [
+          "Charge the battery",
+          "Clean the air",
+          "Store oil"
+        ]
+      },
+      {
+        "question": "What is a drilling machine used for?",
+        "correct_answer": "Making holes",
+        "incorrect_answers": [
+          "Joining metals",
+          "Painting",
+          "Measuring"
+        ]
+      },
+      {
+        "question": "What is density?",
+        "correct_answer": "Mass per unit volume",
+        "incorrect_answers": [
+          "Weight per unit length",
+          "Force per area",
+          "Energy per time"
+        ]
+      },
+      {
+        "question": "Which process removes material using an abrasive wheel?",
+        "correct_answer": "Grinding",
+        "incorrect_answers": [
+          "Casting",
+          "Welding",
+          "Forging"
+        ]
+      },
+      {
+        "question": "At normal pressure, water boils at what temperature?",
+        "correct_answer": "100 °C",
+        "incorrect_answers": [
+          "0 °C",
+          "50 °C",
+          "150 °C"
+        ]
+      },
+      {
+        "question": "Which part is normally used together with a bolt?",
+        "correct_answer": "Nut",
+        "incorrect_answers": [
+          "Bearing",
+          "Gear",
+          "Spring"
+        ]
+      },
+      {
+        "question": "What is a spring used for?",
+        "correct_answer": "Storing and releasing energy",
+        "incorrect_answers": [
+          "Cutting metal",
+          "Joining wires",
+          "Measuring speed"
+        ]
+      },
+      {
+        "question": "Which of these metals is the lightest?",
+        "correct_answer": "Aluminium",
+        "incorrect_answers": [
+          "Steel",
+          "Iron",
+          "Lead"
+        ]
+      },
+      {
+        "question": "Which unit is commonly used for the speed of a car?",
+        "correct_answer": "km/h",
+        "incorrect_answers": [
+          "kg",
+          "Newton",
+          "Joule"
+        ]
+      },
+      {
+        "question": "What is a clutch used for in a car?",
+        "correct_answer": "Connecting or disconnecting the engine from the gearbox",
+        "incorrect_answers": [
+          "Cooling the engine",
+          "Steering",
+          "Injecting fuel"
+        ]
+      },
+      {
+        "question": "What are brakes used for?",
+        "correct_answer": "Slowing or stopping a vehicle",
+        "incorrect_answers": [
+          "Increasing speed",
+          "Cooling the air",
+          "Charging the battery"
+        ]
+      },
+      {
+        "question": "What does a technical drawing show?",
+        "correct_answer": "The shape and size of a part",
+        "incorrect_answers": [
+          "The price of a part",
+          "A story",
+          "A song"
+        ]
+      },
+      {
+        "question": "What is a screw thread used for?",
+        "correct_answer": "Fastening parts together",
+        "incorrect_answers": [
+          "Cooling",
+          "Painting",
+          "Magnetising"
+        ]
+      },
+      {
+        "question": "What does HVAC stand for?",
+        "correct_answer": "Heating, Ventilation and Air Conditioning",
+        "incorrect_answers": [
+          "High Voltage AC",
+          "Hydraulic Valve Control",
+          "Heavy Vehicle Air Compressor"
         ]
       }
     ],
@@ -1043,6 +1763,150 @@
           "1957",
           "1969",
           "1971"
+        ]
+      },
+      {
+        "question": "What is the capital city of Sabah?",
+        "correct_answer": "Kota Kinabalu",
+        "incorrect_answers": [
+          "Kuching",
+          "Johor Bahru",
+          "Ipoh"
+        ]
+      },
+      {
+        "question": "Which Malaysian dessert is made of shaved ice, red beans and sweet corn?",
+        "correct_answer": "Ais Kacang",
+        "incorrect_answers": [
+          "Nasi Lemak",
+          "Satay",
+          "Roti Canai"
+        ]
+      },
+      {
+        "question": "What does \"Merdeka\" mean?",
+        "correct_answer": "Independence",
+        "incorrect_answers": [
+          "Friendship",
+          "Harmony",
+          "Celebration"
+        ]
+      },
+      {
+        "question": "What is the name of the Malaysian national anthem?",
+        "correct_answer": "Negaraku",
+        "incorrect_answers": [
+          "Jalur Gemilang",
+          "Rukun Negara",
+          "Tanah Airku"
+        ]
+      },
+      {
+        "question": "How many principles are in the Rukun Negara?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "3",
+          "7",
+          "10"
+        ]
+      },
+      {
+        "question": "Which festival is also known as the Spring Festival?",
+        "correct_answer": "Chinese New Year",
+        "incorrect_answers": [
+          "Deepavali",
+          "Hari Raya Aidilfitri",
+          "Gawai"
+        ]
+      },
+      {
+        "question": "Which animals are on Malaysia's coat of arms?",
+        "correct_answer": "Two tigers",
+        "incorrect_answers": [
+          "Two lions",
+          "Two elephants",
+          "Two eagles"
+        ]
+      },
+      {
+        "question": "Which Malaysian state is known as the Land Below the Wind?",
+        "correct_answer": "Sabah",
+        "incorrect_answers": [
+          "Sarawak",
+          "Perak",
+          "Johor"
+        ]
+      },
+      {
+        "question": "In which state is Mount Kinabalu located?",
+        "correct_answer": "Sabah",
+        "incorrect_answers": [
+          "Sarawak",
+          "Pahang",
+          "Kedah"
+        ]
+      },
+      {
+        "question": "What is the capital city of Penang?",
+        "correct_answer": "George Town",
+        "incorrect_answers": [
+          "Butterworth",
+          "Bayan Lepas",
+          "Ipoh"
+        ]
+      },
+      {
+        "question": "What is the Malay word for \"friend\"?",
+        "correct_answer": "Kawan",
+        "incorrect_answers": [
+          "Makan",
+          "Rumah",
+          "Buku"
+        ]
+      },
+      {
+        "question": "What is the Malay word for cooked rice?",
+        "correct_answer": "Nasi",
+        "incorrect_answers": [
+          "Mee",
+          "Roti",
+          "Air"
+        ]
+      },
+      {
+        "question": "Which airline is Malaysia's national flag carrier?",
+        "correct_answer": "Malaysia Airlines",
+        "incorrect_answers": [
+          "AirAsia",
+          "Firefly",
+          "Batik Air"
+        ]
+      },
+      {
+        "question": "What is the name of the traditional Malaysian shadow puppet theatre?",
+        "correct_answer": "Wayang Kulit",
+        "incorrect_answers": [
+          "Silat",
+          "Songket",
+          "Batik"
+        ]
+      },
+      {
+        "question": "What is a traditional Malay martial art called?",
+        "correct_answer": "Silat",
+        "incorrect_answers": [
+          "Karate",
+          "Taekwondo",
+          "Judo"
+        ]
+      },
+      {
+        "question": "What is the Malay name for the Malaysian national flag?",
+        "correct_answer": "Jalur Gemilang",
+        "incorrect_answers": [
+          "Negaraku",
+          "Bunga Raya",
+          "Merdeka"
         ]
       }
     ]
